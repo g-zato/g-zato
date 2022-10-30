@@ -1,4 +1,4 @@
-### Hey, welcome to my page!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my page!</h1>
 I'm Giovanni, Fullstack developer from  Curitiba, Brazil. I'm obsessed with learning better tools to build, and programming is my playing field!
 
 #### Stuff I use at work
