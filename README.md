@@ -50,3 +50,6 @@ I'm Giovanni, a Full Stack developer from  Curitiba, Brazil. I'm obsessed with l
 [![brazil.gif](brazil.gif)](https://www.youtube.com/watch?v=FyBFt3ozX8w)
 
 ###### See my public projects below 👇
+
+
+
