@@ -18,7 +18,7 @@ I'm Giovanni, Fullstack developer from  Curitiba, Brazil. I'm obsessed with lear
 ![image](https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black) 
 
 
-#### Stuff use in my free time
+#### Stuff I use in my free time
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
