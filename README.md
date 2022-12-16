@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, welcome to my page!</h1>
-I'm Giovanni, a Full Stack developer from  Curitiba, Brazil. I'm obsessed with learning better tools to build, and programming is my playing field!
+I'm Giovanni, a Full Stack developer & monday.com expert from Curitiba, Brazil. I'm obsessed with learning better tools to build, and programming is my playing field!
 
 #### Stuff I use at work
 [![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/about/)
