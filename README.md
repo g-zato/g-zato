@@ -42,10 +42,6 @@ I'm Giovanni, a Full Stack developer from  Curitiba, Brazil. I'm obsessed with l
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-pizzato-merenna-175916172)
 [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](http://signal.me/#p/+5543998301306)
 
-#### My setup
-
-<img src="setup.jpeg" width="600"/>
-
 #### brazil.gif
 [![brazil.gif](brazil.gif)](https://www.youtube.com/watch?v=FyBFt3ozX8w)
 <br>
